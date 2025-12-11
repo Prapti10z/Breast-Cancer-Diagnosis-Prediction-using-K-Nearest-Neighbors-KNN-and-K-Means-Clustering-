@@ -37,8 +37,8 @@ KNN Classifier (k = 5)
   * Precision
   * Recall
   * F1-score
-  * 
-Optimal k
+
+    Optimal k
 
 * Checked k = 1 to 20
 * Found the best k-value with highest accuracy
